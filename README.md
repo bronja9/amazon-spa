@@ -1,10 +1,10 @@
-# Amazon Spa 💆‍♀️
+# Amazon Spa 🛒 
 
 Welcome to the Amazon SPA repository! 🌿
 
 ## Description 📝
 
-Amazon Spa is a single-page application (SPA) clone of the popular e-commerce platform Amazon, focusing on spa products and relaxation essentials. 
+Amazon Spa is a single-page application (SPA) clone of the popular e-commerce platform Amazon.
 
 ## Key Features 🌟
 
