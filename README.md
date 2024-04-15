@@ -2,6 +2,9 @@
 
 Welcome to the Amazon SPA repository! 🌿
 
+  ![Travel List Screenshot](./public/amazon-spa.png )
+
+
 ## Description 📝
 
 Amazon Spa is a single-page application (SPA) clone of the popular e-commerce platform Amazon.
